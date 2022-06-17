@@ -3,8 +3,8 @@
 /**
  * cd_shell - changes current directory
  *
- * @datash: data relevant
- * Return: 1 on success
+ * @datash: data relevant 2 app
+ * Return: 1 when success
  */
 int cd_shell(data_shell *datash)
 {
